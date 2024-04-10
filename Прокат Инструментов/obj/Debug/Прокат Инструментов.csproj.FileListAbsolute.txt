@@ -1,0 +1,72 @@
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.exe.config
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.exe
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.pdb
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.AssemblyReference.cache
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Login.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Properties.Resources.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.GenerateResource.cache
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.CoreCompileInputs.cache
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.exe
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.pdb
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Form1.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Users.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Tools.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpMainForm.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.AdminMainForm.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.empTools.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Customer.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpCustomer.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpOrder.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\QRCoder.dll
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.CopyComplete
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\Guna.UI2.dll
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.exe.config
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.exe
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.pdb
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\Guna.UI2.dll
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\bin\Debug\QRCoder.dll
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.AssemblyReference.cache
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Customer.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpCustomer.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpMainForm.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpOrder.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.empTools.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Form1.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Login.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.AdminMainForm.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Properties.Resources.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Tools.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Users.resources
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.GenerateResource.cache
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.CopyComplete
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.exe
+C:\Users\Админ\Downloads\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.pdb
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.exe.config
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.exe
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\bin\Debug\Прокат Инструментов.pdb
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\bin\Debug\Guna.UI2.dll
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\bin\Debug\QRCoder.dll
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.AssemblyReference.cache
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Customer.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpCustomer.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpMainForm.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.EmpOrder.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.empTools.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Form1.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Login.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.AdminMainForm.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Properties.Resources.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Tools.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Users.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.GenerateResource.cache
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.CoreCompileInputs.cache
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.csproj.CopyComplete
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.exe
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат Инструментов.pdb
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Order.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Choose.resources
+C:\Users\dariuz\Desktop\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.GuestTools.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Choose.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.GuestTools.resources
+G:\лабы\3 курс\курсовая\Прокат Инструментов\Прокат Инструментов\obj\Debug\Прокат_Инструментов.Order.resources
